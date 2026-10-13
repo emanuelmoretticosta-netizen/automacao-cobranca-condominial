@@ -1,0 +1,9 @@
+.env
+credenciais.py
+config_condominios.py
+*.pyc
+__pycache__/
+relatorio_*.txt
+acordos_*.txt
+*.png
+venv/
